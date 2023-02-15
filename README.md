@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/muhammedsajadali/Product-review-card-Frontend-Mentor-challenge
 - Live Site URL: https://muhammedsajadali.github.io/Product-review-card-Frontend-Mentor-challenge/
 
 ## My process
