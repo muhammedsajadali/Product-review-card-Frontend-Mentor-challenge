@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background-color: hsl(30, 38%, 92%);
     display: flex;
     justify-content: center;
@@ -58,12 +58,12 @@ picture img{
 }
 
 #discount-price-tag{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Fraunces', sans-serif;
     color:hsl(158, 36%, 37%);
 }
 
 #orginal-price-tag{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Fraunces', sans-serif;
     position: relative;
     color:hsl(228, 12%, 48%);
     padding-left: 1rem;
