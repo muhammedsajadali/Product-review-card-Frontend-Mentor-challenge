@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#main-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    margin:1rem 1rem;
+    border-radius: .5rem;
+    background-color: white;
+}
+
+picture img{
+    border-radius: .5rem .5rem 0 0;
+    width: 100%;
+}
+
+#info-div{
+    padding: 1rem;
+}
+
+#product-label,#product-label-two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#product-label{
+    padding-top:.5rem ;
+    margin-bottom:-.1rem;
+}
+
+#product-label-two{
+    margin-top: -.1rem;
+}
+
+#perfume{
+    letter-spacing: .2rem;
+}
+
+#product-info,#perfume{
+    color:hsl(228, 12%, 48%)
+}
+
+#product-info{
+    padding: 1rem 0;
+    line-height: 1.5rem;
+}
+
+#discount-price-tag{
+    color:hsl(158, 36%, 37%);
+}
+
+#orginal-price-tag{
+    position: relative;
+    color:hsl(228, 12%, 48%);
+    padding-left: 1rem;
+    top:-.3rem;
+    text-decoration: line-through;
+}
+
+#discount-price-tag,#orginal-price-tag{
+    display: inline;
+}
+
+#adjuster{
+    margin:1rem;
+}
+
+#cart{
+    position: relative;
+    top:.2rem;
+}
+
+button{
+    display: block;
+    background-color: hsl(158, 36%, 37%);
+    color:#fff;
+    border:none;
+    border-radius: .5rem;
+    padding:1rem 0;
+    width:100%;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(23, 52, 40);
+}
+
+@media (min-width:780px) {
+    #main-container{
+        flex-direction: row;
+        width:40%;
+        height: 60%;
+    }
+
+    #info-div{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    #image-div,#info-div{
+        width:50%;
+    }
+
+    picture img{
+        border-radius: .5rem 0 0 .5rem;
+        height: 100%;
+    }
+
+    #discount-price-tag,#orginal-price-tag{
+        display: inline;
+    }
+}
