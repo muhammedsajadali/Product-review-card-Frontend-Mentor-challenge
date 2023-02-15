@@ -32,7 +32,7 @@ picture img{
 }
 
 #product-label,#product-label-two{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Fraunces', serif;
 }
 
 #product-label{
@@ -58,10 +58,12 @@ picture img{
 }
 
 #discount-price-tag{
+    font-family: 'Montserrat', sans-serif;
     color:hsl(158, 36%, 37%);
 }
 
 #orginal-price-tag{
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     color:hsl(228, 12%, 48%);
     padding-left: 1rem;
