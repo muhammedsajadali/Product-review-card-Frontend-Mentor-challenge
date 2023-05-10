@@ -1,17 +1,17 @@
 
-![ENTER YOUR PROJECT NAME](Here paste link of project screenshot)
+![Product Review Card](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/d0bm3lh8bp36gyi3jiop.jpg)
 
 
 
-# name of the project
+# Product Review Card
 
 <div align="center">
 
-[Live](paste the live link of the solution)
-| [Solution](paste the link of solution)
-| [Challenge](paste the link of challenge)
+[Live](https://muhammedsajadali.github.io/Product-review-card-Frontend-Mentor-challenge/)
+| [Solution](https://www.frontendmentor.io/solutions/mobile-first-approach-product-review-card-KRgE3dUyZB)
+| [Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-This is a solution to the [Enter the name of the challenge +  challenge on Frontend Mentor](the link of challenge)
+This is a solution to the [Product Review Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 </div>
 
@@ -20,14 +20,14 @@ This is a solution to the [Enter the name of the challenge +  challenge on Front
 
 ## About the Project
 
-This challenge will .........bla bla bla add what the heck this challenge is all about
+This challenge measure your skills in making a responsive product review card.
 
 
 
 Users should be able to:
 
-1. View the optimal layout depending on their device's screen size
-2. See hover states for interactive elements
+View the optimal layout depending on their device's screen size
+
 
 
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ## What I learned 
 
-just type what the heck you learned from this challenge
+Making widths and heights according to various device display ratio.
 
 ## Acknowledgments
 
